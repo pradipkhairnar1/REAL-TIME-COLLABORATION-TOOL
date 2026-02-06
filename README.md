@@ -1,15 +1,19 @@
 # REAL-TIME COLLABORATION TOOL
 
-**Company:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
-**Name:** Pradip Vishwas Khairnar  
-**Intern ID:** CTIS2857  
-**Domain:** MERN Stack Web Development  
-**Duration:** 4 Weeks  
-**Mentor:** Neela Santosh  
+COMPANY : CODTECH IT SOLUTIONS PRIVATE LIMITED
+
+NAME : PRADIP VISHWAS KHAIRNAR
+
+ITERN ID : CTIS2857
+
+DOMAIN : MERN STACK WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH 
 
 
-
-## About the Project
+About the Project :-
 
 The **Real-Time Collaborative Document Editor** is a full-stack web application that allows multiple users to edit documents simultaneously with live synchronization.
 
@@ -69,7 +73,7 @@ The application follows a client–server architecture:
 - Stores documents  
 - Ensures persistence through autosave  
 
----
+
 
 ##  Real-Time Capabilities
 
@@ -80,7 +84,6 @@ Socket.IO enables:
 - Presence tracking  
 - Room-based communication  
 
----
 
 ##  Run Locally
 
@@ -99,6 +102,7 @@ http://localhost:5000
 
 ## OUTPUT
 
+<img width="1917" height="1014" alt="Image" src="https://github.com/user-attachments/assets/cb3c71fd-b44a-4f45-b264-bd399546d520" />
+
 <img width="1915" height="1017" alt="Image" src="https://github.com/user-attachments/assets/3ec5b35d-1d0c-4f2a-96bd-15bc6a97d392" />
 
-<img width="1917" height="1014" alt="Image" src="https://github.com/user-attachments/assets/cb3c71fd-b44a-4f45-b264-bd399546d520" />
